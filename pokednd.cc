@@ -1,8 +1,8 @@
-//==================================================================//
-// PokeDnD.cpp														//
-// Jacob Ramsey		September 22, 2017								//
+//======================================================================//
+// PokeDnD.cpp								//
+// Jacob Ramsey		September 22, 2017				//
 // This program is a tool for converting Pokemon to a d20 system.	//
-//==================================================================//
+//======================================================================//
 
 #include<iostream>
 #include<string>
@@ -11,30 +11,30 @@
 using namespace std;
 
 void clean(ifstream& fin, string moves[], int& arrLength);
-	/*=== removes extra characters from the input file of moves =====
-	===== and extracts each move, adding them to an array       ===*/
+	/*=== removes extra characters from the input file of moves 	=====
+	===== and extracts each move, adding them to an array       	===*/
 
 void find_cat(const string& input, int& pos);
 	/*=== helper function for clean(), find the category		=====
 	===== keyword in each line which is used as a reference		=====
-	===== point for finding the names of the moves				===*/
+	===== point for finding the names of the moves			===*/
 
 string cut_move(const string& input, int& pos);
 	/*=== helper function for clean(). finds the name of the	=====
 	===== move in each line and returns a string of the name	=====
-	===== which is then added to an array						===*/
+	===== which is then added to an array				===*/
 
 void rm_duplicates(string moves[], int& arrLength);
 	/*=== helper function for clean(). removes duplicate noves	=====
-	===== from the array										===*/
+	===== from the array						===*/
 
 void to_upper(string moves[], const int& arrLength);
 	/*=== helper funtion for clean(). makes the name uppercase	=====
-	===== so that is matches the base move library				===*/
+	===== so that is matches the base move library			===*/
 
 void create_move_library(const string moves[], const int& arrLength);
-	/*=== opens the base move libraries and passes to			=====
-	===== copy_from_library()									===*/
+	/*=== opens the base move libraries and passes to		=====
+	===== copy_from_library()					===*/
 
 void copy_from_library(const int& level, ifstream& fin, const string moves[], const int& arrLength);
 	/*=== helper function for create_move_library(). checks		=====
@@ -44,7 +44,6 @@ void copy_from_library(const int& level, ifstream& fin, const string moves[], co
 
 int main()
 {
-	char junk;/*=======REMOVE======*/
 
 	string filename;
 	ifstream fileIn;
@@ -63,8 +62,6 @@ int main()
 		fileIn.close();
 		create_move_library(moves, arrLength);
 	}
-	
-	cin >> junk;/*=======REMOVE======*/
 
 	return 0;
 }
@@ -157,6 +154,9 @@ string cut_move(const string& input, int& pos) { //finds the move in the string 
 		move = word1 + word2;
 	}
 
+	if (!isalpha(move[0])) //removing the tab that gets added to the beginning of one word moves
+		move = move.substr(1, move.length() - 1);
+
 	return move;
 }
 
@@ -209,6 +209,9 @@ void create_move_library(const string moves[], const int& arrLength) {
 		return;
 	}
 
+	//for (int i = 0; i < arrLength; i++)
+	//	cout << "|" << moves[i] << "|" << endl;
+
 	for (int i = 0; i < 3; i++) {
 		if (i == 0)
 			copy_from_library(0, basic, moves, arrLength);
@@ -231,14 +234,30 @@ void copy_from_library(const int& level, ifstream& fin, const string moves[], co
 			cout << "Searching..._basicMoves.txt for: " << moves[i] << endl;
 			while (!fin.eof()) {
 				getline(fin, input);
+//cout << "|" << input << "|" << endl;
+				if(!input.empty() && !isalpha(input.length() - 1)) //erasing newline characters from end of string
+					input.erase(input.length() - 1);
+				if(!input.empty() && !isalpha(input[0])) //erasing newline characters from beginning of string
+					input.erase(0);
+//cout << "|" << input << "|" << endl;
 				if (input == moves[i]) {
 					cout << "    found\n";
 					fout << input << endl;
 					getline(fin, input);
 					getline(fin, input);
-					while (input != ">") {
+					//if(!input.empty() && !isalpha(input.length() - 1)) //erasing newline characters from end of string
+					//	input.erase(input.length() - 1);
+					//if(!input.empty() && !isalpha(input[0])) //erasing newline characters from beginning of string
+					//	input.erase(0);
+
+					while (input != "") {
 						fout << input << endl;
 						getline(fin, input);
+						//if(!input.empty() && !isalpha(input.length() - 1))
+						//	input.erase(input.length() - 1);
+						//if(!input.empty() && !isalpha(input[0]))
+						//	input.erase(0);
+						cout << "|" << input << "|" << endl;
 					}
 					fout << endl;
 				}

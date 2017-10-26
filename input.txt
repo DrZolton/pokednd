@@ -1,3 +1,102 @@
-﻿1	Splash	Normal	Status	—	—%	40
-15	Tackle	Normal	Physical	40	100%	35
-30	Flail	Normal	Physical	—	100%	15
+1 	Tackle 	Normal 	Physical 	40 	100% 	35
+3 	Growl 	Normal 	Status 	— 	100% 	40
+7 	Vine Whip 	Grass 	Physical 	45 	100% 	25
+9 	Vine Whip 	Grass 	Physical 	45 	100% 	25
+13 	Poison Powder 	Poison 	Status 	— 	75% 	35
+13 	Sleep Powder 	Grass 	Status 	— 	75% 	15
+15 	Take Down 	Normal 	Physical 	90 	85% 	20
+19 	Razor Leaf 	Grass 	Physical 	55 	95% 	25
+21 	Sweet Scent 	Normal 	Status 	— 	100% 	20
+25 	Growth 	Normal 	Status 	— 	—% 	20
+27 	Double-Edge 	Normal 	Physical 	120 	100% 	15
+31 	Worry Seed 	Grass 	Status 	— 	100% 	10
+33 	Synthesis 	Grass 	Status 	— 	—% 	5
+37 	Seed Bomb 	Grass 	Physical 	80 	100% 	15
+
+    Bold indicates a move that gets STAB when used by Bulbasaur
+    Italic indicates a move that gets STAB only when used by an evolution of Bulbasaur
+    Click on the generation numbers at the top to see level-up moves from other generations
+
+By TM/HM
+Generation VII 	
+Other generations:
+I - II - III - IV - V - VI
+  	 TM  	 Move  	 Type  	 Cat.  	 Pwr.  	 Acc.  	 PP 
+Bag TM Normal VI Sprite.png 	TM01 	Work Up 	Normal 	Status 	— 	—% 	30
+Bag TM Poison VI Sprite.png 	TM06 	Toxic 	Poison 	Status 	— 	90% 	10
+Bag TM Poison VI Sprite.png 	TM09 	Venoshock 	Poison 	Special 	65 	100% 	10
+Bag TM Normal VI Sprite.png 	TM10 	Hidden Power 	Normal 	Special 	60 	100% 	15
+Bag TM Fire VI Sprite.png 	TM11 	Sunny Day 	Fire 	Status 	— 	—% 	5
+Bag TM Psychic VI Sprite.png 	TM16 	Light Screen 	Psychic 	Status 	— 	—% 	30
+Bag TM Normal VI Sprite.png 	TM17 	Protect 	Normal 	Status 	— 	—% 	10
+Bag TM Normal VI Sprite.png 	TM20 	Safeguard 	Normal 	Status 	— 	—% 	25
+Bag TM Normal VI Sprite.png 	TM21 	Frustration 	Normal 	Physical 	— 	100% 	20
+Bag TM Grass VI Sprite.png 	TM22 	Solar Beam 	Grass 	Special 	120 	100% 	10
+Bag TM Normal VI Sprite.png 	TM27 	Return 	Normal 	Physical 	— 	100% 	20
+Bag TM Normal VI Sprite.png 	TM32 	Double Team 	Normal 	Status 	— 	—% 	15
+Bag TM Poison VI Sprite.png 	TM36 	Sludge Bomb 	Poison 	Special 	90 	100% 	10
+Bag TM Normal VI Sprite.png 	TM42 	Facade 	Normal 	Physical 	70 	100% 	20
+Bag TM Psychic VI Sprite.png 	TM44 	Rest 	Psychic 	Status 	— 	—% 	10
+Bag TM Normal VI Sprite.png 	TM45 	Attract 	Normal 	Status 	— 	100% 	15
+Bag TM Normal VI Sprite.png 	TM48 	Round 	Normal 	Special 	60 	100% 	15
+Bag TM Normal VI Sprite.png 	TM49 	Echoed Voice 	Normal 	Special 	40 	100% 	15
+Bag TM Grass VI Sprite.png 	TM53 	Energy Ball 	Grass 	Special 	90 	100% 	10
+Bag TM Normal VI Sprite.png 	TM75 	Swords Dance 	Normal 	Status 	— 	—% 	20
+Bag TM Grass VI Sprite.png 	TM86 	Grass Knot 	Grass 	Special 	— 	100% 	20
+Bag TM Normal VI Sprite.png 	TM87 	Swagger 	Normal 	Status 	— 	85% 	15
+Bag TM Normal VI Sprite.png 	TM88 	Sleep Talk 	Normal 	Status 	— 	—% 	10
+Bag TM Normal VI Sprite.png 	TM90 	Substitute 	Normal 	Status 	— 	—% 	10
+Bag TM Normal VI Sprite.png 	TM96 	Nature Power 	Normal 	Status 	— 	—% 	20
+Bag TM Normal VI Sprite.png 	TM100 	Confide 	Normal 	Status 	— 	—% 	20
+
+    Bold indicates a move that gets STAB when used by Bulbasaur
+    Italic indicates a move that gets STAB only when used by an evolution of Bulbasaur
+    Click on the generation numbers at the top to see TM moves from other generations
+
+By breeding
+Generation VII 	
+Other generations:
+II - III - IV - V - VI
+ Parent  	 Move  	 Type  	 Cat.  	 Pwr.  	 Acc.  	 PP 
+SlowpokeSlowbroSnorlax 	Amnesia 	Psychic 	Status 	— 	—% 	20
+CottoneeTyruntTyrantrum 	Charm 	Fairy 	Status 	— 	100% 	20
+SlowpokeSlowbroSlowkingTurtwigGrotleTorterra
+FerroseedFerrothornPhantumpTrevenantBergmiteAvalugg 	Curse 	Ghost 	Status 	— 	—% 	10
+ShieldonBastiodonTurtonator 	Endure 	Normal 	Status 	— 	—% 	10
+OddishGloomParasParasectTangelaTangrowth
+HoppipSkiploomJumpluffSunkernSunfloraTreecko
+LotadShroomishRoseliaTurtwigGrotleTorterra
+SnivyServineSerperiorCottoneeMaractusFoongus
+AmoongussMorelullShiinotic 	Giga Drain 	Grass 	Special 	75 	100% 	10
+SunkernSunfloraRoseliaSnoverAbomasnow 	Grass Whistle 	Grass 	Status 	— 	55% 	15
+OddishGloomTangelaTangrowthRoseradeComfey 	Grassy Terrain 	Grass 	Status 	— 	—% 	10
+TangelaTangrowthSunkernSunfloraRoseliaCacnea
+CacturneCarnivineSnoverAbomasnowMaractusFoongus
+AmoongussFerroseedFerrothornPhantumpTrevenantFomantis
+LurantisMorelullShiinotic 	Ingrain 	Grass 	Status 	— 	—% 	20
+VictreebelExeggutorExeggutorBellossomSunfloraGrovyle
+SceptileShiftryTropiusTurtwigGrotleTorterra
+SnivyServineSerperior 	Leaf Storm 	Grass 	Special 	130 	90% 	5
+ChikoritaBayleefMeganiumBellossomRoseliaRoserade
+TropiusCherubiCherrimComfey 	Magical Leaf 	Grass 	Special 	60 	—% 	20
+LotadLombreLudicoloSeedotNuzleafAmaura
+Aurorus 	Nature Power 	Normal 	Status 	— 	—% 	20
+VenusaurOddishGloomVileplumeBellossomMeganium
+SunfloraRoseliaCherrimMaractusComfey 	Petal Dance 	Grass 	Special 	120 	100% 	10
+LickitungLickilickyTangelaTangrowthCarnivineFerrothorn 	Power Whip 	Grass 	Physical 	120 	85% 	10
+SquirtleWartortleBlastoiseAvalugg 	Skull Bash 	Normal 	Physical 	130 	100% 	10
+Mudkip 	Sludge* 	Poison 	Special 	65 	100% 	20
+
+    Moves marked with an asterisk (*) must be chain bred onto Bulbasaur in Generation VII
+    Moves marked with a double dagger (‡) can only be bred from a Pokémon who learned the move in an earlier generation.
+    Moves marked with a superscript game abbreviation can only be bred onto Bulbasaur in that game.
+    Bold indicates a move that gets STAB when used by Bulbasaur
+    Italic indicates a move that gets STAB only when used by an evolution of Bulbasaur
+    Click on the generation numbers at the top to see Egg moves from other generations
+
+By tutoring
+Generation VII 	
+Other generations:
+II - III - IV - V - VI
+ Game  	 Move  	 Type  	 Cat.  	 Pwr.  	 Acc.  	 PP 
+S 	M 	Grass Pledge 	Grass 	Special 	80 	100% 	10 
