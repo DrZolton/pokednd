@@ -1,0 +1,911 @@
+Baseline: 4d6(avg. 14 dmg) or 3d8(avg. 13.5 dmg)
+          2d10(avg. 11) 2d12(avg. 13) 5d4(12.5)
+
+SIGNAL BEAM
+<
+    Level 2    Bug
+    Standard Action    Ranged 15
+    Target: One Pokemon
+    Attack: Intelligence vs. Will
+    Hit: 3d6 + Intelligence modifier BUG damage
+      and the target is dazed (save ends)
+>
+      
+STEAMROLLER
+<
+    Level 2    Bug
+    Standard Action    Melee
+    Target: One or Two Pokemon adjacent to each
+      other
+    Attack: Strength vs. AC
+    Hit: 2d6 + Strength modifier BUG damage and
+      the target is stunned until the start of
+      your next turn
+    Extra: If the target is 2 sizes or more
+      smaller than you, do an extra 2d6 BUG damage
+>
+      
+STRUGGLE BUG
+<
+    Level 2    Bug
+    Standard Action    Close burst 1
+    Target: All Pokemon in burst
+    Attack: Charisma vs. Will
+    Hit: 1d8 + Charisma modifier BUG damage and
+      the target is weakened until the start of
+      your next turn
+>
+
+ASSURANCE
+<
+    Level 2    Dark
+    Standard Action    Melee
+    Target: One Pokemon
+    Attack: Strength vs. AC
+    Hit: 2d10 + Strength modifier DARK damage
+    Extra: If the target has already taken damage
+      since its last turn, deal an extra 1d10 DARK
+      damage
+>
+
+BEAT UP
+<
+    Level 2    Dark
+    Minor Action    Close burst 2
+    Target: All allies adjacent to you and
+      adjacent to the same enemy
+    Effect: Your allies may make a free basic
+      attack against the enemy with an extra 1d6
+        NEUTRAL damage
+>
+
+FLATTER
+<
+    Level 2    Dark
+    Minor Action    Close blast 3
+    Target: All enemies in blast
+    Attack: Charisma vs. Will
+    Effect: The target is dazed and grants combat
+      advantage until the end of the encounter
+>
+
+SWITCHEROO
+<
+    Level 2    Dark
+    Move Action    Melee
+    Target: One Pokemon
+    Attack: Dexterity vs. Reflex
+    Effect: You switch held items with the target
+>
+
+TAUNT
+<
+    Level 2    Dark
+    Minor Action    Ranged 5
+    Target: One Pokemon
+    Attack: Charisma vs. Will
+    Effect: The target is unable to use any moves
+      that do not directly deal damage and must
+      target you (save ends: DC 10 + your Charisma
+      modifier)
+>
+
+THIEF
+<
+    Level 2    Dark
+    Standard Action    Melee
+    Target: One Pokemon
+    Attack: Dexterity vs. Reflex
+    Hit: 3d6 + Dexterity modifier DARK damage and
+      you take the opponent's held item
+>
+
+DRAGON CLAW
+<
+    Level 2    Dragon
+    Standard Action    Melee
+    Target: One Pokemon
+    Attack: Strength vs. AC
+    Hit: 4d6 + Strength modifier DRAGON damage
+>
+
+DRAGON PULSE
+<
+    Level 2    Dragon
+    Standard Action    Burst 1 within 15
+    Target: All Pokemon in burst
+    Attack: Intelligence vs. Reflex
+    Hit: 2d8 + Intelligence modifier DRAGON damage
+>
+
+EERIE IMPULSE
+<
+    Level 2    Electric
+    Standard Action    Close Burst 2
+    Target: All Pokemon in burst
+    Attack: Charisma vs. Will
+    Effect: The target takes a penalty to
+      Intelligence, Wisdom, and Charisma based
+      attacks equal to your Charisma modifier
+      until the end of the encounter
+>
+
+MAGNET RISE
+<
+    Level 2    Electric
+    Move Action    Self
+    Effect: You are immune to GROUND type attacks
+      and ground-based difficult terrain until
+      the end of the encounter
+>
+
+NUZZLE
+<
+    Level 2    Electric
+    Standard Action    Melee
+    Target: One Pokemon
+    Attack: Dexterity vs. Fortitude
+    Hit: 2d6 + Dexterity modifier ELECTRIC damage
+      and the target is slowed and dazed (save
+      ends)
+>
+
+THUNDER PUNCH
+<
+    Level 2    Electric
+    Standard Action    Melee
+    Target: One Pokemon
+    Primary Attack: Strength vs. AC
+    Hit: 3d6 + Strength modifier ELECTRIC damage
+      Secondary Attack: Wisdom vs. Fortitude
+      Effect: The target is slowed and dazed (save
+        ends)
+>
+
+VOLT SWITCH
+<
+    Level 2    Electric
+    Standard Action    Melee
+    Target: One Pokemon
+    Attack: Dexterity vs. Reflex
+    Hit: 4d4 + Dexterity modifier ELECTRIC damage
+      and you may move away from the target up to
+      your movement speed
+    Extra: If this Pokemon ends this move within
+      range of you, the trainer, you may recall
+      this Pokemon and release another as a free
+      action
+>
+
+CHARM
+<
+    Level 2    Fairy
+    Standard Action    Ranged 5
+    Target: One Pokemon
+    Attack: Charisma vs. Will
+    Effect: The target is weakened until the end
+      of the encounter
+>
+
+DAZZLING GLEAM
+<
+    Level 2    Fairy
+    Standard Action    Burst 1 within 10
+    Target: All enemies in burst
+    Attack: Wisdom vs. Fortitude
+    Hit: 2d8 + Wisdom modifier FAIRY damage
+>
+
+DYNAMIC PUNCH
+<
+    Level 2    Fighting
+    Standard Action    Melee
+    Target: One Pokemon
+    Attack: Strength vs. AC
+    Hit: 4d4 + Strength modifier FIGHTING damage
+      and the target is stunned until the end of
+      your next turn
+>
+
+REVERSAL
+<
+    Level 2    Fighting
+    Standard Action    Melee
+    Target: One Pokemon
+    Attack: Strength vs. AC
+    Hit: 1d12 + Strength modifier FIGHTING damage
+    Extra: If you are at or below 1/4 hitpoints,
+      deal an extra 3d12 FIGHTING damage
+>
+
+VITAL THROW
+<
+    Level 2    Fighting
+    Standard and Move Action    Melee
+    Target: One Pokemon
+    Attack: Constitution + 5 vs. AC
+    Hit: 2d12 + Constitution modifier FIGHTING
+      damage
+>
+
+BULK UP
+<
+    Level 2    Fighting
+    Minor Action    Self
+    Effect: Gain a +5 power bonus to AC and your
+      Strength modifier until the end of the
+      encounter
+>
+
+DRAIN PUNCH
+<
+    Level 2    Fighting
+    Standard Action    Melee
+    Target: One Pokemon
+    Attack: Strength vs. Fortitude
+    Hit: 2d8 + Strength modifier FIGHTING damage
+      and you regain 1d8 hitpoints
+>
+
+FORCE PALM
+<
+    Level 2    Fighting
+    Standard Action    Melee
+    Target: One Pokemon
+    Attack: Dexterity vs. Reflex
+    Hit: 4d4 + Dexterity modifier FIGHTING damage
+      and the target is SLOWED and WEAKENED until
+      the start of your next turn
+>
+
+VACUUM WAVE
+<
+    Level 2    Fighting
+    Standard Action    Close Blast 3
+    Target: All Pokemon in blast
+    Attack: Dexterity vs. Reflex
+    Hit: 1d12 + Dexterity modifier FIGHTING damage
+>
+
+FIRE PUNCH
+<
+    Level 2    Fire
+    Standard Action    Melee
+    Target: One Pokemon
+    Primary Attack: Strength vs. AC
+    Hit: 3d6 + Strength modifier FIRE damage
+      Secondary Attack: Wisdom vs. Fortitude
+      Hit: The target takes ongoing 1d6 NUETRAL
+        damage (save ends)
+>
+
+FLAMETHROWER
+<
+    Level 2    Fire
+    Standard Action    Ranged 15
+    Target: One Pokemon
+    Attack: Intelligence vs. Reflex
+    Hit: 6d4 + Intelligence modifier FIRE damage
+>
+
+HEAT WAVE
+<
+    Level 2    Fire
+    Standard Action    Close Blast 4
+    Target: All Pokemon in blast
+    Attack: Wisdom vs. Fortitude
+    Hit: 1d10 + Wisdom modifier FIRE damage and
+      ongoing 1d4 NUETRAL damage (save ends)
+>
+
+WILL-O-WISP
+<
+    Level 2    Fire
+    Standard Action    Ranged 10
+    Target: One Pokemon
+    Attack: Wisdom vs. Fortitude
+    Effect: The target takes ongoing 1d12 NUETRAL
+      damage (save ends: DC 10 + Wisdom modifier)
+>
+
+BOUNCE
+<
+    Level 2    Flying
+    Move Action, Standard Action    Self, Melee
+    Target: One Pokemon
+    Move Action: You fly up to double your speed
+      to reach the target and stay flying until
+      the beginning of your next turn
+    Standard Action: Make an attack against the
+      target the next turn
+      Attack: Strength vs. AC
+      Hit: 3d6 + Strength modifier FLYING damage
+        and the target is dazed (save ends)
+>
+
+FEATHER DANCE
+<
+    Level 2    Flying
+    Standard Action    Ranged 5
+    Target: One Pokemon
+    Attack: Wisdom vs. Will
+    Effect: The target is weakened until the end
+      of the encounter
+>
+
+AIR SLASH
+<
+    Level 2    Flying
+    Standard Action    Burst 1 within 10
+    Target: All Pokemon in burst
+    Attack: Dexterity vs. AC
+    Hit: 1d8 + Dexterity modifier FLYING damage
+      and the target is stunned until the start of
+      your next turn
+>
+
+SKY DROP
+<
+    Level 2    Flying
+    Standard Action    Melee
+    Target: One Pokemon
+    Attack: Dexterity vs. Reflex
+    Effect: The target is RESTRAINED (save ends:
+      DC 10 + Strength modifier). You and the
+      target adopt the FLYING type and fly into
+      the air
+    Sustain Standard: 3d8 + Strength modifier
+      FLYING damage, target is no longer
+      RESTRAINED, and you and the target lose the
+      FLYING type gained as a result of this move
+>
+
+GRUDGE
+<
+    Level 2    Ghost
+    Minor Action    Self
+    Effect: Until the end of the encounter, if you
+      are brought to zero hitpoints as the result
+      of a move. The Pokemon that attacked you
+      loses a number of Power Points at random
+      equal to your level/2
+>
+
+OMINOUS WIND
+<
+    Level 2    Ghost
+    Standard Action    Close Blast 3
+    Target: All Pokemon in blast
+    Attack: Wisdom vs. Fortitude
+    Hit: 1d6 + Wisdom modifier GHOST damage and
+      you gain a +1 power bonus to all attack
+      rolls, damage rolls, defenses, and movement
+      speed until the end of the encounter
+>
+
+SHADOW SNEAK
+<
+    Level 2    Ghost
+    Standard Action    Melee
+    Target: One Pokemon
+    Attack: Dexterity vs. Reflex
+    Hit: 2d10 + Dexterity modifier DARK damage
+    Extra: You may shift up to your movement
+      speed before the attack as a free action
+>
+
+COTTON GUARD
+<
+    Level 2    Grass
+    Standard Action    Self
+    Effect: +10 to AC until the end of the
+      encounter
+>
+
+ENERGY BALL
+<
+    Level 2    Grass
+    Standard Action    Ranged 15
+    Target: One Pokemon
+    Attack: Wisdom vs. AC
+    Hit: 2d8 + Wisdom modifier GRASS damage and
+      the target takes a penalty to Fortitude
+      equal to your Wisdom modifier until the end
+      of the encounter
+>
+
+GRASS WHISTLE
+<
+    Level 2    Grass
+    Standard Action    Ranged 10
+    Target: One Pokemon
+    Attack: Charisma vs. Will
+    Effect: The target is knocked unconcious (save
+      ends: DC 10 + Charisma modifier)
+>
+
+INGRAIN
+<
+    Level 2    Grass
+    Standard Action    Self
+    Effect: Regain 1d8 hitpoints. You are
+      immobilized as long as you sustain this move
+    Sustain Move: Regain 1d8 hitpoints
+>
+
+PETAL BLIZZARD
+<
+    Level 2    Grass
+    Standard Action    Close Burst 4
+    Target: All Pokemon in burst
+    Attack: Wisdom vs. Fortitude
+    Hit: 1d8 + Wisdom modifier GRASS damage
+>
+
+SEED BOMB
+<
+    Level 2    Grass
+    Standard Action    Ranged 15
+    Target: One Pokemon
+    Attack: Strength vs. Reflex
+    Hit: 3d10 + Strength modifier GRASS damage
+>
+
+DRILL RUN
+<
+    Level 2    Ground
+    Standard Action    Melee
+    Target: One Pokemon
+    Attack: Constitution vs. AC
+    Hit: 3d8 + Constitution modifier GROUND damage
+    Extra: Score a critical hit on a roll of 18,
+      19, or 20
+>
+
+MUD BOMB
+<
+    Level 2    Ground
+    Standard Action    Burst 1 within 10
+    Target: All Pokemon in burst
+    Attack: Constitution vs. Reflex
+    Hit: 2d6 + Constitution modifier GROUND damage
+      and the target has disadvantage until the
+      start of your next turn
+>
+
+MUD SPORT
+<
+    Level 2    Ground, Zone
+    Standard Action    Close Burst 5
+    Effect: You create a zone of ELECTRIC
+      resistance, where ELECTRIC damage is cut in
+      half. This zone lasts for 1d6 + Wisdom
+      modifier turns
+>
+
+FREEZE-DRY
+<
+    Level 2    Ice
+    Standard Action    Ranged 5
+    Target: One Pokemon
+    Attack: Intelligence vs. Fortitude
+    Hit: 3d6 + Intelligence modifier ICE damage
+      and the target is RESTRAINED (save ends)
+    Extra: This move deals double damage to WATER
+      type Pokemon
+>
+
+ICE SHARD
+<
+    Level 2    Ice
+    Standard Action    Ranged 10
+    Target: One Pokemon
+    Attack: Intelligence vs. AC
+    Hit: 3d8 + Intelligence modifier ICE damage
+>
+
+MIST
+<
+    Level 2    Ice, Zone
+    Minor Action    Close Burst 5
+    Effect: You create a zone of protection that
+      lasts for 1d6 + Wisdom modifier turns. You
+      and your allies are immune to the enemy's
+      stat changing moves as long as you are in
+      the zone
+>
+
+BIDE
+<
+    Level 2    Normal
+    Standard Action    Melee
+    Effect: All damage you take until the start of
+      your next turn will be dealt double by your
+      attack
+>
+
+HORN ATTACK
+<
+    Level 2    Normal
+    Standard Action    Melee
+    Target: One Pokemon
+    Attack: Strength vs. AC
+    Hit: 6d4 + Strength modifier NORMAL damage
+>
+
+MEGA PUNCH
+<
+    Level 2    Normal
+    Standard Action    Melee
+    Target: One Pokemon
+    Attack: Strength vs. AC
+    Hit: 2d12 + Strength modifier NORMAL damage
+>
+
+RAZOR WIND
+<
+    Level 2    Normal
+    Standard Action    Blast 3
+    Target: All Pokemon in blast
+    Primary Action: Wait one turn
+      Secondary Action: Dexterity vs. AC
+      Hit: 2d6 + Dexterity modifier NORMAL damage
+    Extra: Score a critical hit on a roll of 18,
+      19, or 20
+>
+
+SONIC BOOM
+<
+    Level 2    Normal
+    Standard Action    Ranged 10
+    Target: One Pokemon
+    Attack: Constitution vs. Fortitude
+    Hit: 2d10 + Constitution modifier NORMAL
+      damage
+    Miss: Half damage
+>
+
+SUPER FANG
+<
+    Level 2    Normal
+    Standard Action    Melee
+    Target: One Pokemon
+    Attack: Strength vs. AC
+    Hit: 2d6 + Strength modifier NORMAL damage
+    Extra: If the target is above 1/2 hitpoints,
+      deal an extra 2d6 damage. If the target is
+      above 3/4 hitpoints, deal an extra 4d6
+      damage
+>
+
+SWIFT
+<
+    Level 2    Normal
+    Standard Action    Burst 1 within 10
+    Target: All Pokemon in burst
+    Attack: Wisdom vs. AC
+    Hit: 2d6 + Wisdom modifier NORMAL damage
+    Miss: Half damage
+>
+
+VICE GRIP
+<
+    Level 2    Normal
+    Standard Action    Melee
+    Target: One Pokemon
+    Attack: Strength vs. AC
+    Hit: 3d8 + Strength modifier NORMAL damage
+>
+
+FOCUS ENERGY
+<
+    Level 2    Normal
+    Minor Action    Self
+    Effect: Until the end of the encounter, score
+      a critical hit on rolls of 18, 19, and 20
+>
+
+MINIMIZE
+<
+    Level 2    Normal
+    Move Action    Self
+    Effect: Your size decreases by 2 categories
+      and opponents have disadvantage against you
+      for 2d4 turns
+>
+
+SING
+<
+    Level 2    Normal
+    Standard Action    Close Burst 3
+    Target: All Pokemon in burst
+    Attack: Charisma vs. Will
+    Effect: The target is knocked unconcious until
+    the start of your next turn
+>
+
+SMOKESCREEN
+<
+    Level 2    Normal
+    Standard Action    Burst 1 within 5
+    Target: All Pokemon in burst
+    Attack: Dexterity vs. Fortitude
+    Effect: The target has disadvantage until the
+      end of the encounter
+>
+
+SUPERSONIC
+<
+    Level 2    Normal
+    Standard Action    Ranged 10
+    Target: One Pokemon
+    Attack: Intelligence vs. Fortitude
+    Effect: The target is stunned for 1d4 +
+      Intelligence modifier turns
+    Effect Ends: The target is dazed until the
+      end of the encounter
+>
+
+ACID ARMOR
+<
+    Level 2    Poison
+    Minor Action    Self
+    Effect: +8 to AC until the end of the
+      encounter
+>
+
+POISON GAS
+<
+    Level 2    Poison
+    Standard Action    Blast 3
+    Target: All Pokemon in blast
+    Attack: Constitution vs. Fortitude
+    Effect: The target takes ongoing 1d6 NUETRAL
+      damage (save ends)
+>
+
+CLEAR SMOG
+<
+    Level 2    Poison
+    Standard Action    Ranged 5
+    Target: One Pokemon
+    Attack: Wisdom vs. Fortitude
+    Hit: 2d4 + Wisdom modifier POISON damage and
+      the target loses all positive and negative
+      conditions
+>
+
+VENOSHOCK
+<
+    Level 2    Poison
+    Standard Action    Ranged 10
+    Target: One Pokemon
+    Attack: Dexterity vs. Fortitude
+    Hit: 3d6 + Dexterity modifier POISON damage
+    Extra: If the target is taking ongoing damage
+      as the result of a POISON move, deal an
+      extra 3d6 POISON damage
+>
+
+DREAM EATER
+<
+    Level 2    Psychic
+    Standard Action    Ranged 10
+    Target: One unconcious Pokemon
+    Attack: Wisdom vs. Will
+    Hit: 4d6 + Wisdom modifier PSYCHIC damage and
+      you heal 4d6 hitpoints
+>
+
+STORED POWER
+<
+    Level 2    Psychic
+    Standard Action    Ranged 10
+    Target: One Pokemon
+    Attack: Wisdom vs. Reflex
+    Hit: 2d6 + Wisdom modifier PSYCHIC damage
+    Extra: For each currently ongoing positive
+      condition, deal an extra 1d6 PSYCHIC damage
+>
+
+SYNCHRONOISE
+<
+    Level 2    Psychic
+    Standard Action    Close burst 4
+    Target: All Pokemon in burst that share a type
+      with you
+    Attack: Intelligence vs. Fortitude
+    Hit: 1d10 + Intelligence modifier PSYCHIC
+      damage
+>
+
+AGILITY
+<
+    Level 2    Psychic
+    Minor Action    Self
+    Effect: Until the end of the encounter,
+      increase your movement speed by 4
+>
+
+ALLY SWITCH
+<
+    Level 2    Psychic
+    Move Action    Ranged 10
+    Target: One Ally
+    Effect: You and your ally switch places
+    Extra: This move does not trigger PURSUIT
+>
+
+HEAL PULSE
+<
+    Level 2    Psychic
+    Standard Action    Ranged 10
+    Target: One Pokemon
+    Effect: The target heals hitpoints equal to
+      their healing surge + your Wisdom modifier
+>
+
+LIGHT SCREEN
+<
+    Level 2    Psychic
+    Standard Action    Self, Melee
+    Target: Up to 3 Pokemon, which may include
+      yourself, within melee range
+    Effect: Until the end of the encounter, target
+      gains a bonus to Fortitude and Will defense
+      equal to 5 + your Wisdom modifier
+>
+
+MAGIC ROOM
+<
+    Level 2    Psychic
+    Standard Action    Close Burst 6
+    Effect: You create a zone lasting 1d6 +
+      Intelligence mod turns. Held items do not
+      work within the zone
+>
+
+PSYCHO SHIFT
+<
+    Level 2    Psychic
+    Standard Action    Ranged 10
+    Target: One Pokemon
+    Attack: Wisdom vs. Will
+    Effect: You are cured of any one ongoing
+      negative effect and the target is afflicted
+      with the effect
+>
+
+REFLECT
+<
+    Level 2    Psychic
+    Standard Action    Self, Melee
+    Target: Up to 3 Pokemon, which may include
+      yourself, within melee range
+    Effect: Until the end of the encounter, target
+      gains a bonus to AC and Reflex defense
+      equal to 5 + your Wisdom modifier
+>
+
+ROLE PLAY
+<
+    Level 2    Psychic
+    Minor Action    Ranged 10
+    Target: One Pokemon
+    Effect: You gain the target's ability until
+      the end of the encounter
+>
+
+TRICK
+<
+    Level 2    Psychic
+    Standard Action    Melee
+    Target: One Pokemon
+    Attack: Intelligence vs. Will
+    Effect: Switch held items with the target
+>
+
+ROCK POLISH
+<
+    Level 2    Rock
+    Minor Action    Self
+    Effect: Until the end of the encounter,
+      increase your speed by your Constitution
+      modifier
+>
+
+ROCK SLIDE
+<
+    Level 2    Rock
+    Standard Action    Burst 1 within 10
+    Target: All Pokemon in burst
+    Attack: Strength vs. Reflex
+    Hit: 1d8 + Strength modifier ROCK damage and
+      the target is stunned until the start of
+      your next turn
+>
+
+SMACK DOWN
+<
+    Level 2    Rock
+    Standard Action    Melee
+    Target: One Pokemon
+    Attack: Strength vs. Reflex
+    Hit: 2d10 + Strength modifier ROCK damage and
+      the target can be effected by GROUND type
+      moves and effected by terrain for 1d4 turns
+>
+
+AUTOTOMIZE
+<
+    Level 2    Steel
+    Minor Action    Self
+    Effect: Until the end of the encounter,
+      increase your speed by your Constitution
+      modifier
+>
+
+GYRO BALL
+<
+    Level 2    Steel
+    Standard Action    Melee
+    Target: One Pokemon
+    Attack: Constitution vs. AC
+    Hit: 3d6 + Constitution modifier STEEL damage
+    Extra: If the target has a movement speed more
+      than 3 higher than you, deal an extra 3d6
+      STEEL damage
+>
+
+IRON HEAD
+<
+    Level 2    Steel
+    Standard Action    Melee
+    Target: One Pokemon
+    Attack: Strength vs. AC
+    Hit: 4d4 + Strength modifier STEEL damage and
+      the target is stunned until the start of
+      your next turn
+>
+
+STEEL WING
+<
+    Level 2    Steel
+    Standard Action    Melee
+    Target: One Pokemon
+    Attack: Strength vs. AC
+    Hit: 3d6 + Strength modifier STEEL damage and
+      your AC increases by 2 until the end of the
+      encounter
+>
+
+MUDDY WATER
+<
+    Level 2    Water
+    Standard Action    Blast 4
+    Target: All Pokemon in blast
+    Attack: Intelligence vs. Reflex
+    Hit: 1d10 + Intelligence modifier WATER damage
+      and the target has disadvantage until the
+      start of your next turn
+>
+
+SCALD
+<
+    Level 2    Water
+    Standard Action    Ranged 10
+    Target: One Pokemon
+    Attack: Intelligence vs. Reflex
+    Hit: 1d10 + Intelligence modifier WATER damage
+      and the target takes ongoing 1d6 FIRE damage
+      (save ends)
+>
+
+WATER SPORT
+<
+    Level 2    Water
+    Standard Action    Close Burst 5
+    Effect: You create a zone of FIRE resistance,
+      where FIRE damage is cut in half. This zone
+      lasts for 1d6 + Wisdom modifier turns
+>

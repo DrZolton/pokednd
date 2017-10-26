@@ -1,0 +1,595 @@
+TRANSFORM
+<
+    Basic Move    Normal
+    Standard Action    Self
+    Effect: Choose one Pokemon within 15 squares.
+      You gain the moves, ability, and stats (of
+      the appropriate level) of that Pokemon.
+>
+
+BUG BITE
+<
+    Basic Move    Bug
+    Standard Action    Melee
+    Target: One Pokemon
+    Attack: Strength vs. AC
+    Hit: 1d8 + Strength modifier BUG damage
+>
+
+LEECH LIFE
+<
+    Basic Move    Bug
+    Standard Action    Melee
+    Target: One Pokemon
+    Attack: Strength vs. Fortitude
+    Hit: 1d4 + Strength modifier BUG damage, and
+      regain 1d4 hitpoints
+>
+
+PIN MISSILE
+<
+    Basic Move    Bug
+    Standard Action    Ranged 10
+    Target: One Pokemon
+    Attack: Dexterity vs. AC
+    Hit: 2d4 + Dexterity modifier BUG damage
+>
+
+BITE
+<
+    Basic Move    Dark
+    Standard Action    Melee
+    Target: One Pokemon
+    Attack: Strength vs. AC
+    Hit: 1d8 + Strength modifier DARK damage
+>
+
+FEINT ATTACK
+<
+    Basic Move   Dark
+    Standard Action    Melee
+    Target: One Pokemon
+    Attack: Dexterity vs. Reflex
+    Hit: 1d6 + Dexterity modifier DARK damage
+    Extra: You may add your Charisma modifier to
+      the attack roll
+>
+
+PAYBACK
+<
+    Basic Move    Dark
+    Standard Action    Melee
+    Target: One Pokemon
+    Attack: Strength vs. AC
+    Hit: 1d6 + Strength modifier DARK damage
+    Extra: If the target dealt damage to you since
+      your last turn, deal an extra 1d4 Dark
+      damage on this attack
+>
+
+DRAGON RAGE
+<
+    Basic Move    Dragon
+    Standard Action    Burst 1 within 7
+    Target: All Pokemon in burst
+    Attack: Charisma vs. AC
+    Hit: 1d4 DRAGON damage, and the target takes
+      disadvantage to any attacks made against you
+      until the start of your next turn
+>
+
+TWISTER
+<
+    Basic Move    Dragon
+    Standard Action    Close burst 1
+    Target: All Pokemon in burst
+    Attack: Wisdom vs. Reflex
+    Hit: 1d4 DRAGON damage, and the target is
+      slowed until the start of your next turn
+>
+
+SPARK
+<
+    Basic Move    Electric
+    Standard Action    Melee
+    Target: One Pokemon
+    Attack: Constitution vs. Fortitude
+    Hit: 1d6 + Constitution modifier Electric
+      damage
+    Extra: As a free action, you may move up to
+      half your speed before the attack
+>
+
+THUNDER FANG
+<
+    Basic Move    Electric
+    Standard Action    Melee
+    Target: One Pokemon
+    Attack: Strength vs. AC
+    Hit: 1d8 + Strength modifier ELECTRIC damage
+>
+
+THUNDER SHOCK
+<
+    Basic Move    Electric
+    Standard Action    Ranged 10
+    Target: One Pokemon
+    Attack: Intelligence vs. Reflex
+    Hit: 1d8 + Intelligence modifier Electric
+      damage
+>
+
+DISARMING VOICE
+<
+    Basic Move    Fairy
+    Standard Action    Close burst 1
+    Target: All Pokemon in burst
+    Attack: Charisma vs. Will
+    Hit: Charisma modifier Fairy damage, and the
+      target grants advantage to the next attack
+      made against it until the start of your next
+      turn
+>
+
+FAIRY WIND
+<
+    Basic Move    Fairy
+    Standard Action    Close blast 2
+    Target: All Pokemon in blast
+    Attack: Wisdom vs. Fortitude
+    Hit: 1d4 + Wisdom modifier Fairy damage
+>
+
+DRAINING KISS
+<
+    Basic Move    Fairy
+    Standard Action    Melee
+    Target: One Pokemon
+    Attack: Charisma vs. Will
+    Hit: 1d4 + Charisma modifier Fairy damage, and
+      you heal 1d4 hitpoints
+>
+
+KARATE CHOP
+<
+    Basic Move    Fighting
+    Standard Action    Melee
+    Target: One Pokemon
+    Attack: Strength vs. AC
+    Hit: 1d8 + Strength modifier Fighting damage
+>
+
+LOW KICK
+<
+    Basic Move    Fighting
+    Standard Action    Melee
+    Target: One Pokemon
+    Attack: Dexterity vs. Reflex
+    Hit: 1d6 + Dexterity modifier Fighting damage,
+      and the target grants advantage to the next
+      attack made against it until the start of
+      your next turn
+>
+
+SEISMIC TOSS
+<
+    Basic Move    Fighting
+    Standard Action    Melee
+    Target: One Pokemon
+    Attack: Constitution vs. Reflex
+    Hit: 1d4 + Constitution modifier Fighting
+      damage, and the target is dazed until the
+      start of your next turn
+>
+
+JUMP KICK
+<
+    Basic Move    Fighting
+    Standard Action    Melee
+    Target: One Pokemon
+    Attack: Dexterity vs. AC
+    Hit: 1d6 + Dexterity modifier Fighting damage
+    Extra: Before your attack, as a free action,
+      you may fly up to half your movement speed
+      to reach the target, ignoring all difficult
+      terrain and attacks of opportunity along
+      your path
+>
+
+EMBER
+<
+    Basic Move    Fire
+    Standard Action    Ranged 10
+    Target: One Pokemon
+    Attack: Dexterity vs. Reflex
+    Hit: 1d8 + Dexterity modifier Fire damage
+>
+
+FIRE SPIN
+<
+    Basic Move    Fire
+    Standard Action    Burst 1 within 7
+    Target: All Pokemon in burst
+    Attack: Intelligence vs. Reflex
+    Hit: 1d4 Fire damage
+        Sustain Standard: The burst becomes a zone
+          of fire that deals 1d6 + Intelligence
+          modifier Fire damage to any Pokemon that
+          enters the zone or starts its turn
+          within the zone
+>
+
+FLAME WHEEL
+<
+    Basic Move    Fire
+    Standard Action    Melee
+    Target: One Pokemon
+    Attack: Strength vs. Reflex
+    Hit: 1d6 + Strength modifier Fire damage, and
+      the target is pushed a number of squares up
+      to your Strength modifier
+>
+
+GUST
+<
+    Basic Move    Flying
+    Standard Action    Blast 2
+    Target: All Pokemon in blast
+    Attack: Dexterity vs. Fortitude
+    Hit: 1d4 Flying damage, and the target is
+      pushed one square
+>
+
+PECK
+<
+    Basic Move    Flying
+    Standard Action    Melee
+    Target: One Pokemon
+    Attack: Dexterity vs. AC
+    Hit: 1d8 + Dexterity modifier Flying damage
+>
+
+CHATTER
+<
+    Basic Move    Flying
+    Standard Action    Close burst 1
+    Target: All Pokemon in burst
+    Attack: Charisma vs. Will
+    Hit: Charisma modifier Flying damage, and the
+      target is dazed until the start of your next
+      turn
+>
+
+WING ATTACK
+<
+    Basic Move    Flying
+    Standard Action    Melee
+    Target: One Pokemon
+    Attack: Strength vs. AC
+    Hit: 1d8 + Strength modifier Flying damage
+>
+
+ASTONISH
+<
+    Basic Move    Ghost
+    Standard Action    Melee
+    Target: One Pokemon
+    Attack: Charisma vs. Will
+    Hit: 1d6 + Charisma modifier Ghost damage, and
+      the target takes disadvantage to the next
+      attack it makes
+>
+
+LICK
+<
+    Basic Move    Ghost
+    Standard Action    Melee
+    Target: One Pokemon
+    Attack: Dexterity vs. Fortitude
+    Hit: 1d4 Ghost damage, and the target is dazed
+      until the start of your next turn
+>
+
+NIGHT SHADE
+<
+    Basic Move    Ghost
+    Standard Action    Ranged 10
+    Target: One Pokemon
+    Attack: Wisdom vs. Will
+    Hit: 1d8 + Wisdom modifier Ghost damage
+>
+
+ABSORB
+<
+    Basic Move    Grass
+    Standard Action    Ranged 5
+    Target: One Pokemon
+    Attack: Wisdom vs. Fortitude
+    Hit: 1d4 + Wisdom modifier Grass damage, and
+      regain 1d4 hitpoints
+>
+
+BULLET SEED
+<
+    Basic Move    Grass
+    Standard Action    Ranged 10
+    Target: One Pokemon
+    Attack: Dexterity vs. AC
+    Hit: 1d8 + Dexterity modifier Grass damage
+>
+
+GRASS KNOT
+<
+    Basic Move    Grass
+    Standard Action    Melee
+    Target: One Pokemon
+    Attack: Constitution vs. Reflex
+    Hit: 1d4 + Constitution modifier Grass damage,
+      and the target is dazed until the start of
+      your next turn
+>
+
+VINE WHIP
+<
+    Basic Move    Grass
+    Standard Action    Ranged 7
+    Target: One Pokemon
+    Attack: Strength vs. AC
+    Hit: 1d8 + Strength modifier Grass damage
+>
+
+MUD-SLAP
+<
+    Basic Move    Ground
+    Standard Action    Melee
+    Target: One Pokemon
+    Attack: Strength vs. Reflex
+    Hit: 1d6 + Strength modifier Ground damage,
+      and the target has disadvantage to the next
+      attack it makes before the start of your
+      next turn
+>
+
+DIG
+<
+    Basic Move    Ground
+    Standard Action    Melee
+    Target: One Pokemon
+    Attack: Constitution vs. AC
+    Hit: 1d6 + Constitution modifier Ground damage
+    Extra: Before the attack, you may shift a
+      number of squares up to half your movement
+      speed, ignoring difficult terrain and
+      attacks of opportunity along your path
+>
+
+BULLDOZE
+<
+    Basic Move    Ground
+    Standard Action    Blast 2
+    Target: All Pokemon in blast
+    Attack: Strength vs. Fortitude
+    Hit: 1d4 Ground damage, and the target is
+      pushed one square
+>
+
+ICICLE SPEAR
+<
+    Basic Move    Ice
+    Standard Action    Ranged 10
+    Target: One Pokemon
+    Attack: Dexterity vs. AC
+    Hit: 1d8 + Dexterity modifier Ice damage
+>
+
+ICY WIND
+<
+    Basic Move    Ice
+    Standard Action    Close blast 2
+    Target: All Pokemon in blast
+    Attack: Wisdom vs. Fortitude
+    Hit: 1d4 + Wisdom modifier Ice damage
+>
+
+POWDER SNOW
+<
+    Basic Move    Ice
+    Standard Action    Close burst 2
+    Target: All Pokemon in burst
+    Attack: Wisdom vs. Fortitude
+    Hit: Wisdom modifier Ice damage, and the
+      target is slowed until the start of your
+      next turn
+>
+
+POUND
+<
+    Basic Move    Normal
+    Standard Action    Melee
+    Target: One Pokemon
+    Attack: Dexterity vs. AC
+    Hit: 1d6 + Dexterity modifier Normal damage,
+      and you may shift one square as a free
+      action either before or after the attack
+>
+
+SCRATCH
+<
+    Basic Move    Normal
+    Standard Action    Melee
+    Target: One Pokemon
+    Attack: Strength vs. AC
+    Hit: 1d8 + Strength modifier Normal damage
+>
+
+TACKLE
+<
+    Basic Move    Normal
+    Standard Action    Melee
+    Target: One Pokemon
+    Attack: Constitution vs. AC
+    Hit: 1d6 + Constitution modifier Normal
+      damage, and you push the target a number of
+      squares up to your Constitution modifier
+>
+
+ACID
+<
+    Basic Move    Poison
+    Standard Action    Blast 2
+    Target: All Pokemon in blast
+    Attack: Dexterity vs. Reflex
+    Hit: 1d4 + Dexterity modifier Poison damage,
+      and the target takes a -1 penalty to AC
+      until the start of your next turn
+>
+
+POISON STING
+<
+    Basic Move    Poison
+    Standard Action    Melee
+    Target: One Pokemon
+    Attack: Strength vs. AC
+    Hit: 1d8 + Strength modifier Poison damage
+>
+
+SMOG
+<
+    Basic Move    Poison
+    Standard Action    Close burst 1
+    Target: All Pokemon in burst
+    Attack: Constitution vs. Fortitude
+    Hit: 1d4 + Constitution modifier Poison damage
+>
+
+SLUDGE
+<
+    Basic Move    Poison
+    Standard Action    Ranged 10
+    Target: One Pokemon
+    Attack: Dexterity vs. Reflex
+    Hit: 1d8 + Dexterity modifier Poison damage
+>
+
+CONFUSION
+<
+    Basic Move    Psychic
+    Standard Action    Ranged 5
+    Target: One Pokemon
+    Attack: Intelligence vs. Will
+    Hit: 1d6 + Intelligence modifier Psychic
+      damage, and the target has disadvantage on
+      the next attack it makes before the start of
+      your next turn
+>
+
+PSYBEAM
+<
+    Basic Move    Psychic
+    Standard Action    Ranged 10
+    Target: One Pokemon
+    Attack: Intelligence vs. Reflex
+    Hit: 1d8 + Intelligence modifier Psychic
+      damage
+>
+
+PSYWAVE
+<
+    Basic Move    Psychic
+    Standard Action    Close Blast 2
+    Target: All Pokemon in blast
+    Attack: Wisdom vs. Will
+    Hit: 1d4 + Wisdom modifier Psychic damage
+>
+
+ROLLOUT
+<
+    Basic Move    Rock
+    Standard Action    Melee
+    Target: One Pokemon
+    Attack: Constitution vs. AC
+    Hit: 1d4 + Constitution modifier Rock damage
+    Extra: You may move up to half your movement
+      speed before the attack as a free action
+>
+
+ROCK THROW
+<
+    Basic Move    Rock
+    Standard Action    Ranged 10
+    Target: One Pokemon
+    Attack: Strength vs. AC
+    Hit: 1d8 + Strength modifier Rock damage
+>
+
+ROCK BLAST
+<
+    Basic Move    Rock
+    Standard Action    Burst 1 within 7 squares
+    Target: All Pokemon in burst
+    Attack: Strength vs. AC
+    Hit: 1d4 + Strength modifier Rock damage
+>
+
+METAL CLAW
+<
+    Basic Move    Steel
+    Standard Action    Melee
+    Target: One Pokemon
+    Attack: Strength vs. AC
+    Hit: 1d6 + Strength modifier Steel damage
+    Extra: Roll a 1d4. If you roll 4, add 1d4
+      STEEL damage to your next attack
+>
+
+MIRROR SHOT
+<
+    Basic Move    Steel
+    Standard Action    Ranged 10
+    Target: One Pokemon
+    Attack: Constitution vs. Fortitude
+    Hit: 1d6 + Constitution modifier Steel damage,
+      and the target takes disadvantage to the
+      next attack it makes before the start of
+      your next turn
+>
+
+BUBBLE
+<
+    Basic Move    Water
+    Standard Action    Blast 2
+    Target: All Pokemon in blast
+    Attack: Dexterity vs. Reflex
+    Hit: 1d4 + Dexterity modifier Water damage
+>
+
+WATER GUN
+<
+    Basic Move    Water
+    Standard Action    Ranged 10
+    Target: One Pokemon
+    Attack: Dexterity vs. AC
+    Hit: 1d8 + Dexterity modifier Water damage
+>
+
+WHIRLPOOL
+<
+    Basic Move    Water
+    Standard Action    Close burst 1
+    Target: All Pokemon in burst
+    Attack: Strength vs. Fortitude
+    Hit: 1d4 Water damage, and the target is
+      pushed 1 square
+>
+
+AQUA JET
+<
+    Basic Move    Water
+    Standard Action    Melee
+    Target: One Pokemon
+    Attack: Strength vs. AC
+    Hit: 1d6 + Strength modifier Water damage
+    Extra: You may move a number of squares up to
+      your Strength modifier before the attack as
+      a free action
+>
