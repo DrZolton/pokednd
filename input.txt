@@ -1,20 +1,24 @@
+1 	Flash Cannon 	Steel 	Special 	80 	100% 	10
 1 	Tackle 	Normal 	Physical 	40 	100% 	35
-3 	Growl 	Normal 	Status 	— 	100% 	40
-7 	Vine Whip 	Grass 	Physical 	45 	100% 	25
-9 	Vine Whip 	Grass 	Physical 	45 	100% 	25
-13 	Poison Powder 	Poison 	Status 	— 	75% 	35
-13 	Sleep Powder 	Grass 	Status 	— 	75% 	15
-15 	Take Down 	Normal 	Physical 	90 	85% 	20
-19 	Razor Leaf 	Grass 	Physical 	55 	95% 	25
-21 	Sweet Scent 	Normal 	Status 	— 	100% 	20
-25 	Growth 	Normal 	Status 	— 	—% 	20
-27 	Double-Edge 	Normal 	Physical 	120 	100% 	15
-31 	Worry Seed 	Grass 	Status 	— 	100% 	10
-33 	Synthesis 	Grass 	Status 	— 	—% 	5
-37 	Seed Bomb 	Grass 	Physical 	80 	100% 	15
+1 	Tail Whip 	Normal 	Status 	— 	100% 	30
+1 	Water Gun 	Water 	Special 	40 	100% 	25
+1 	Withdraw 	Water 	Status 	— 	—% 	40
+4 	Tail Whip 	Normal 	Status 	— 	100% 	30
+7 	Water Gun 	Water 	Special 	40 	100% 	25
+10 	Withdraw 	Water 	Status 	— 	—% 	40
+13 	Bubble 	Water 	Special 	40 	100% 	30
+17 	Bite 	Dark 	Physical 	60 	100% 	25
+21 	Rapid Spin 	Normal 	Physical 	20 	100% 	40
+25 	Protect 	Normal 	Status 	— 	—% 	10
+29 	Water Pulse 	Water 	Special 	60 	100% 	20
+33 	Aqua Tail 	Water 	Physical 	90 	90% 	10
+40 	Skull Bash 	Normal 	Physical 	130 	100% 	10
+47 	Iron Defense 	Steel 	Status 	— 	—% 	15
+54 	Rain Dance 	Water 	Status 	— 	—% 	5
+60 	Hydro Pump 	Water 	Special 	110 	80% 	5
 
-    Bold indicates a move that gets STAB when used by Bulbasaur
-    Italic indicates a move that gets STAB only when used by an evolution of Bulbasaur
+    Bold indicates a move that gets STAB when used by Blastoise
+    Italic indicates a move that gets STAB only when used by an evolution of Blastoise
     Click on the generation numbers at the top to see level-up moves from other generations
 
 By TM/HM
@@ -23,34 +27,45 @@ Other generations:
 I - II - III - IV - V - VI
   	 TM  	 Move  	 Type  	 Cat.  	 Pwr.  	 Acc.  	 PP 
 Bag TM Normal VI Sprite.png 	TM01 	Work Up 	Normal 	Status 	— 	—% 	30
+Bag TM Normal VI Sprite.png 	TM05 	Roar 	Normal 	Status 	— 	—% 	20
 Bag TM Poison VI Sprite.png 	TM06 	Toxic 	Poison 	Status 	— 	90% 	10
-Bag TM Poison VI Sprite.png 	TM09 	Venoshock 	Poison 	Special 	65 	100% 	10
+Bag TM Ice VI Sprite.png 	TM07 	Hail 	Ice 	Status 	— 	—% 	10
 Bag TM Normal VI Sprite.png 	TM10 	Hidden Power 	Normal 	Special 	60 	100% 	15
-Bag TM Fire VI Sprite.png 	TM11 	Sunny Day 	Fire 	Status 	— 	—% 	5
-Bag TM Psychic VI Sprite.png 	TM16 	Light Screen 	Psychic 	Status 	— 	—% 	30
+Bag TM Ice VI Sprite.png 	TM13 	Ice Beam 	Ice 	Special 	90 	100% 	10
+Bag TM Ice VI Sprite.png 	TM14 	Blizzard 	Ice 	Special 	110 	70% 	5
+Bag TM Normal VI Sprite.png 	TM15 	Hyper Beam 	Normal 	Special 	150 	90% 	5
 Bag TM Normal VI Sprite.png 	TM17 	Protect 	Normal 	Status 	— 	—% 	10
-Bag TM Normal VI Sprite.png 	TM20 	Safeguard 	Normal 	Status 	— 	—% 	25
+Bag TM Water VI Sprite.png 	TM18 	Rain Dance 	Water 	Status 	— 	—% 	5
 Bag TM Normal VI Sprite.png 	TM21 	Frustration 	Normal 	Physical 	— 	100% 	20
-Bag TM Grass VI Sprite.png 	TM22 	Solar Beam 	Grass 	Special 	120 	100% 	10
+Bag TM Rock VI Sprite.png 	TM23 	Smack Down 	Rock 	Physical 	50 	100% 	15
+Bag TM Ground VI Sprite.png 	TM26 	Earthquake 	Ground 	Physical 	100 	100% 	10
 Bag TM Normal VI Sprite.png 	TM27 	Return 	Normal 	Physical 	— 	100% 	20
+Bag TM Fighting VI Sprite.png 	TM31 	Brick Break 	Fighting 	Physical 	75 	100% 	15
 Bag TM Normal VI Sprite.png 	TM32 	Double Team 	Normal 	Status 	— 	—% 	15
-Bag TM Poison VI Sprite.png 	TM36 	Sludge Bomb 	Poison 	Special 	90 	100% 	10
+Bag TM Rock VI Sprite.png 	TM39 	Rock Tomb 	Rock 	Physical 	60 	95% 	15
 Bag TM Normal VI Sprite.png 	TM42 	Facade 	Normal 	Physical 	70 	100% 	20
 Bag TM Psychic VI Sprite.png 	TM44 	Rest 	Psychic 	Status 	— 	—% 	10
 Bag TM Normal VI Sprite.png 	TM45 	Attract 	Normal 	Status 	— 	100% 	15
 Bag TM Normal VI Sprite.png 	TM48 	Round 	Normal 	Special 	60 	100% 	15
-Bag TM Normal VI Sprite.png 	TM49 	Echoed Voice 	Normal 	Special 	40 	100% 	15
-Bag TM Grass VI Sprite.png 	TM53 	Energy Ball 	Grass 	Special 	90 	100% 	10
-Bag TM Normal VI Sprite.png 	TM75 	Swords Dance 	Normal 	Status 	— 	—% 	20
-Bag TM Grass VI Sprite.png 	TM86 	Grass Knot 	Grass 	Special 	— 	100% 	20
+Bag TM Fighting VI Sprite.png 	TM52 	Focus Blast 	Fighting 	Special 	120 	70% 	5
+Bag TM Water VI Sprite.png 	TM55 	Scald 	Water 	Special 	80 	100% 	15
+Bag TM Dark VI Sprite.png 	TM56 	Fling 	Dark 	Physical 	— 	100% 	10
+Bag TM Normal VI Sprite.png 	TM68 	Giga Impact 	Normal 	Physical 	150 	90% 	5
+Bag TM Steel VI Sprite.png 	TM74 	Gyro Ball 	Steel 	Physical 	— 	100% 	5
+Bag TM Ground VI Sprite.png 	TM78 	Bulldoze 	Ground 	Physical 	60 	100% 	20
+Bag TM Rock VI Sprite.png 	TM80 	Rock Slide 	Rock 	Physical 	75 	90% 	10
+Bag TM Dragon VI Sprite.png 	TM82 	Dragon Tail 	Dragon 	Physical 	60 	90% 	10
 Bag TM Normal VI Sprite.png 	TM87 	Swagger 	Normal 	Status 	— 	85% 	15
 Bag TM Normal VI Sprite.png 	TM88 	Sleep Talk 	Normal 	Status 	— 	—% 	10
 Bag TM Normal VI Sprite.png 	TM90 	Substitute 	Normal 	Status 	— 	—% 	10
-Bag TM Normal VI Sprite.png 	TM96 	Nature Power 	Normal 	Status 	— 	—% 	20
+Bag TM Steel VI Sprite.png 	TM91 	Flash Cannon 	Steel 	Special 	80 	100% 	10
+Bag TM Water VI Sprite.png 	TM94 	Surf 	Water 	Special 	90 	100% 	15
+Bag TM Dark VI Sprite.png 	TM97 	Dark Pulse 	Dark 	Special 	80 	100% 	15
+Bag TM Water VI Sprite.png 	TM98 	Waterfall 	Water 	Physical 	80 	100% 	15
 Bag TM Normal VI Sprite.png 	TM100 	Confide 	Normal 	Status 	— 	—% 	20
 
-    Bold indicates a move that gets STAB when used by Bulbasaur
-    Italic indicates a move that gets STAB only when used by an evolution of Bulbasaur
+    Bold indicates a move that gets STAB when used by Blastoise
+    Italic indicates a move that gets STAB only when used by an evolution of Blastoise
     Click on the generation numbers at the top to see TM moves from other generations
 
 By breeding
@@ -58,40 +73,44 @@ Generation VII
 Other generations:
 II - III - IV - V - VI
  Parent  	 Move  	 Type  	 Cat.  	 Pwr.  	 Acc.  	 PP 
-SlowpokeSlowbroSnorlax 	Amnesia 	Psychic 	Status 	— 	—% 	20
-CottoneeTyruntTyrantrum 	Charm 	Fairy 	Status 	— 	100% 	20
-SlowpokeSlowbroSlowkingTurtwigGrotleTorterra
-FerroseedFerrothornPhantumpTrevenantBergmiteAvalugg 	Curse 	Ghost 	Status 	— 	—% 	10
-ShieldonBastiodonTurtonator 	Endure 	Normal 	Status 	— 	—% 	10
-OddishGloomParasParasectTangelaTangrowth
-HoppipSkiploomJumpluffSunkernSunfloraTreecko
-LotadShroomishRoseliaTurtwigGrotleTorterra
-SnivyServineSerperiorCottoneeMaractusFoongus
-AmoongussMorelullShiinotic 	Giga Drain 	Grass 	Special 	75 	100% 	10
-SunkernSunfloraRoseliaSnoverAbomasnow 	Grass Whistle 	Grass 	Status 	— 	55% 	15
-OddishGloomTangelaTangrowthRoseradeComfey 	Grassy Terrain 	Grass 	Status 	— 	—% 	10
-TangelaTangrowthSunkernSunfloraRoseliaCacnea
-CacturneCarnivineSnoverAbomasnowMaractusFoongus
-AmoongussFerroseedFerrothornPhantumpTrevenantFomantis
-LurantisMorelullShiinotic 	Ingrain 	Grass 	Status 	— 	—% 	20
-VictreebelExeggutorExeggutorBellossomSunfloraGrovyle
-SceptileShiftryTropiusTurtwigGrotleTorterra
-SnivyServineSerperior 	Leaf Storm 	Grass 	Special 	130 	90% 	5
-ChikoritaBayleefMeganiumBellossomRoseliaRoserade
-TropiusCherubiCherrimComfey 	Magical Leaf 	Grass 	Special 	60 	—% 	20
-LotadLombreLudicoloSeedotNuzleafAmaura
-Aurorus 	Nature Power 	Normal 	Status 	— 	—% 	20
-VenusaurOddishGloomVileplumeBellossomMeganium
-SunfloraRoseliaCherrimMaractusComfey 	Petal Dance 	Grass 	Special 	120 	100% 	10
-LickitungLickilickyTangelaTangrowthCarnivineFerrothorn 	Power Whip 	Grass 	Physical 	120 	85% 	10
-SquirtleWartortleBlastoiseAvalugg 	Skull Bash 	Normal 	Physical 	130 	100% 	10
-Mudkip 	Sludge* 	Poison 	Special 	65 	100% 	20
+GolduckSeelDewgongKabutoKabutopsSurskit
+EmpoleonBibarelBuizelFloatzelTirtougaCarracosta
+AlomomolaClauncherClawitzerPopplioBrionnePrimarina 	Aqua Jet 	Water 	Physical 	40 	100% 	20
+SeelDewgongMarillAzumarillCorsolaMantine
+MiloticGorebyssTympolePalpitoadSeismitoadDucklett
+SwannaAlomomolaDewpiderAraquanid 	Aqua Ring 	Water 	Status 	— 	—% 	20
+Clawitzer 	Aura Sphere 	Fighting 	Special 	80 	—% 	20
+SeelDewgongHorseaSeadraKingdraLapras
+OmanyteOmastarCorsolaPelipperSphealSealeo
+WalreinHuntailPiplupPrinplupEmpoleonTirtouga
+CarracostaAlomomola 	Brine 	Water 	Special 	65 	100% 	10
+HorseaSeadraKingdraAmpharosAxewFraxure
+HaxorusSkrelpDragalgeClawitzerSalanditTurtonator
+Drampa 	Dragon Pulse 	Dragon 	Special 	85 	100% 	10
+Lombre 	Fake Out 	Normal 	Physical 	40 	100% 	10
+TotodileCroconawFeraligatrCorsolaFeebasRelicanth
+TympolePalpitoadSeismitoadStunfiskClauncherClawitzer
+Turtonator 	Flail 	Normal 	Physical 	— 	100% 	15
+MudkipMarshtompSwampert 	Foresight 	Normal 	Status 	— 	—% 	40
+WooperQuagsireSurskitGreninja 	Haze 	Ice 	Status 	— 	—% 	30
+CorsolaDewpiderAraquanid 	Mirror Coat 	Psychic 	Special 	— 	100% 	20
+LaprasWooperQuagsireLotadWingullPelipper
+SurskitPiplupPrinplupEmpoleonSnoverAbomasnow
+AmauraAurorus 	Mist 	Ice 	Status 	— 	—% 	30
+WooperQuagsireMudkipRelicanthShellosGastrodon
+StunfiskPyukumuku 	Mud Sport 	Ground 	Status 	— 	—% 	15
+WooperQuagsireMarshtompSwampertShellosGastrodon
+TympolePalpitoadSeismitoadStunfiskClauncherClawitzer 	Muddy Water 	Water 	Special 	90 	85% 	10
+LickitungLickilickyCorsolaMilotic 	Refresh 	Normal 	Status 	— 	—% 	20
+Remoraid 	Water Spout* 	Water 	Special 	— 	100% 	5
+SlowpokeSlowbroSlowkingSnorlaxWooperQuagsire
+KingdraRelicanthBidoofBibarel 	Yawn 	Normal 	Status 	— 	—% 	10
 
-    Moves marked with an asterisk (*) must be chain bred onto Bulbasaur in Generation VII
+    Moves marked with an asterisk (*) must be chain bred onto Blastoise in Generation VII
     Moves marked with a double dagger (‡) can only be bred from a Pokémon who learned the move in an earlier generation.
-    Moves marked with a superscript game abbreviation can only be bred onto Bulbasaur in that game.
-    Bold indicates a move that gets STAB when used by Bulbasaur
-    Italic indicates a move that gets STAB only when used by an evolution of Bulbasaur
+    Moves marked with a superscript game abbreviation can only be bred onto Blastoise in that game.
+    Bold indicates a move that gets STAB when used by Blastoise
+    Italic indicates a move that gets STAB only when used by an evolution of Blastoise
     Click on the generation numbers at the top to see Egg moves from other generations
 
 By tutoring
@@ -99,4 +118,5 @@ Generation VII
 Other generations:
 II - III - IV - V - VI
  Game  	 Move  	 Type  	 Cat.  	 Pwr.  	 Acc.  	 PP 
-S 	M 	Grass Pledge 	Grass 	Special 	80 	100% 	10 
+S 	M 	Hydro Cannon 	Water 	Special 	150 	90% 	5
+S 	M 	Water Pledge 	Water 	Special 	80 	100% 	10 

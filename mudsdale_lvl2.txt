@@ -1,0 +1,33 @@
+MUD SPORT
+    Level 2    Ground, Zone
+    Standard Action    Close Burst 5
+    Effect: You create a zone of ELECTRIC
+      resistance, where ELECTRIC damage is cut in
+      half. This zone lasts for 1d6 + Wisdom
+      modifier turns
+
+BIDE
+    Level 2    Normal
+    Standard Action    Melee
+    Effect: All damage you take until the start of
+      your next turn will be dealt double by your
+      attack
+
+ROCK SLIDE
+    Level 2    Rock
+    Standard Action    Burst 1 within 10
+    Target: All Pokemon in burst
+    Attack: Strength vs. Reflex
+    Hit: 1d8 + Strength modifier ROCK damage and
+      the target is stunned until the start of
+      your next turn
+
+MUD BOMB
+    Level 2    Ground
+    Standard Action    Burst 1 within 10
+    Target: All Pokemon in burst
+    Attack: Constitution vs. Reflex
+    Hit: 2d6 + Constitution modifier GROUND damage
+      and the target has disadvantage until the
+      start of your next turn
+

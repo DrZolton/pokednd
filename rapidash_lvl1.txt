@@ -1,0 +1,68 @@
+FURY ATTACK
+    Level 1    Normal
+    Standard Action    Melee
+    Target: One Pokemon
+    Attack: Strength vs. AC
+    Hit: 4d4 + Strength modifier Normal damage
+
+GROWL
+    Level 1    Normal
+    Minor Action    Ranged 5
+    Target: One Pokemon
+    Attack: Charisma vs. Will
+    Effect: The target takes a -2 penalty to
+      damage rolls based in Constitution
+      Strength, and Dexterity (minimum 1) until
+      the end of the encounter
+
+QUICK ATTACK
+    Level 1    Normal
+    Standard Action    Melee
+    Target: One Pokemon
+    Attack: Dexterity vs. AC
+    Hit: 2d8 + Strength modifier Normal damage
+    Extra: You may shift up to half your movement
+      speed before the attack as a free action
+
+TAIL WHIP
+    Level 1    Normal
+    Minor Action    Ranged 5
+    Target: One Pokemon
+    Attack: Charisma vs. Will
+    Effect: The target takes a -3 penalty to AC
+      and Reflex until the end of the encounter
+
+STOMP
+    Level 1    Normal
+    Standard Action    Melee
+    Target: One Pokemon
+    Attack: Strength vs. AC
+    Hit: 2d8 + Strength modifier Normal damage
+    Extra: If the target is a smaller size than
+      you, deal an extra 1d8 Normal damage
+
+FLAME CHARGE
+    Level 1    Fire
+    Standard Action    Melee
+    Target: One Pokemon
+    Attack: Constitution vs. AC
+    Hit: 2d8 + Constitution modifier Fire damage
+      and your movement speed is incresed by 2
+      until the end of the encounter
+
+DOUBLE KICK
+    Level 1    Fighting
+    Standard Action    Melee
+    Target: One or Two Pokemon
+    Attack: Strength vs. AC, two attacks
+    Hit: 1d12 + Strength modifier Fighting damage
+      per attack
+
+HYPNOSIS
+    Level 1    Psychic
+    Standard Action    Ranged 10
+    Target: One Pokemon
+    Attack: Wisdom vs. Will
+    Effect: The target is knocked unconcious (save
+      ends
+

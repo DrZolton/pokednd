@@ -358,14 +358,31 @@ void convert_stats(){
     	cin >> hp >> atk >> def >> sp_atk >> sp_def >> speed;
 
     	con = (((hp + 100) * HP_RATIO) + ((def + 30) * DEF_RATIO) + ((sp_def + 20) * SP_DEF_RATIO)) / 3;
+	con = double(int(con + 0.5));
+
     	str = (atk + 20) * ATK_RATIO;
+	str = double(int(str + 0.5));
+
     	dex = (((atk + 20) * ATK_RATIO) + ((speed + 25) * SPEED_RATIO_1)) / 2;
+	dex = double(int(dex + 0.5));
+
     	intel = (sp_atk + 20) * SP_ATK_RATIO;
+	intel = double(int(intel + 0.5));
+
     	wis = (((sp_atk + 20) * SP_ATK_RATIO) + ((sp_def + 20) * SP_DEF_RATIO)) / 2;
+	wis = double(int(wis + 0.5));
+
     	cha = (((sp_atk + 20) * SP_ATK_RATIO) + (((sp_def + 20) * SP_DEF_RATIO)) * 2) / 3;
+	cha = double(int(cha + 0.5));
+
     	spd = (speed + 20) * SPEED_RATIO_2;
+	spd = double(int(spd + 0.5));
+
     	hit_points = (hp + 100) * HP_RATIO;
+	hit_points = double(int(hit_points + 0.5));
+
     	hp_per_lvl = hit_points / 3;
+	hp_per_lvl = double(int(hp_per_lvl + 0.5));
 
     	cout << "\nCon: " << con << "\nStr: " << str << "\nDex: " << dex
         	<< "\nInt: " << intel << "\nWis: " << wis << "\nCha: " << cha

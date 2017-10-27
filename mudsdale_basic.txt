@@ -1,0 +1,28 @@
+MUD-SLAP
+    Basic Move    Ground
+    Standard Action    Melee
+    Target: One Pokemon
+    Attack: Strength vs. Reflex
+    Hit: 1d6 + Strength modifier Ground damage
+      and the target has disadvantage to the next
+      attack it makes before the start of your
+      next turn
+
+BULLDOZE
+    Basic Move    Ground
+    Standard Action    Blast 2
+    Target: All Pokemon in blast
+    Attack: Strength vs. Fortitude
+    Hit: 1d4 Ground damage, and the target is
+      pushed one square
+
+PAYBACK
+    Basic Move    Dark
+    Standard Action    Melee
+    Target: One Pokemon
+    Attack: Strength vs. AC
+    Hit: 1d6 + Strength modifier DARK damage
+    Extra: If the target dealt damage to you since
+      your last turn, deal an extra 1d4 Dark
+      damage on this attack
+

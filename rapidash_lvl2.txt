@@ -1,0 +1,33 @@
+AGILITY
+    Level 2    Psychic
+    Minor Action    Self
+    Effect: Until the end of the encounter
+      increase your movement speed by 4
+
+BOUNCE
+    Level 2    Flying
+    Move Action, Standard Action    Self, Melee
+    Target: One Pokemon
+    Move Action: You fly up to double your speed
+      to reach the target and stay flying until
+      the beginning of your next turn
+    Standard Action: Make an attack against the
+      target the next turn
+      Attack: Strength vs. AC
+      Hit: 3d6 + Strength modifier FLYING damage
+        and the target is dazed (save ends
+
+FLAMETHROWER
+    Level 2    Fire
+    Standard Action    Ranged 15
+    Target: One Pokemon
+    Attack: Intelligence vs. Reflex
+    Hit: 6d4 + Intelligence modifier FIRE damage
+
+ALLY SWITCH
+    Level 2    Psychic
+    Move Action    Ranged 10
+    Target: One Ally
+    Effect: You and your ally switch places
+    Extra: This move does not trigger PURSUIT
+

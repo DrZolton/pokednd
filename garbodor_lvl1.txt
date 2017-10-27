@@ -1,0 +1,36 @@
+ACID SPRAY
+    Level 1    Poison
+    Standard Action   Burst 1 within 10
+    Target: All Pokemon in burst
+    Attack: Intelligence vs. Reflex
+    Hit: 1d8 + Intelligence modifier Poison
+      damage, and the target takes a -3 penalty to
+      AC (save ends
+
+DOUBLE SLAP
+    Level 1    Normal
+    Standard Action    Melee
+    Target: One Pokemon
+    Attack: Strength vs. AC
+    Hit: 4d4 + Strength modifier Normal Ddmage
+
+INFESTATION
+    Level 1    Bug
+    Standard Action    Area burst 2 within 10
+    Target: All Pokemon in burst
+    Attack: Wisdom vs. Fortitude
+    Hit: 1d8 + Wisdom modifier Bug damage
+    Effect: The burst creates a zone of bugs that
+      lasts until the end of your next turn. The
+      zone acts as difficult terrain and deal 1d6
+      Bug damage to any Pokemon that enters the
+      zone or starts their turn within the zone
+
+SAND ATTACK
+    Level 1    Ground
+    Minor Action    Ranged 5
+    Target: One Pokemon
+    Attack: Dexterity vs. Reflex
+    Effect: The target takes disadvantage on all
+      attack rolls until the end of the encounter
+

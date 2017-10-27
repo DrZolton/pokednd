@@ -1,0 +1,59 @@
+SWIFT
+    Level 2    Normal
+    Standard Action    Burst 1 within 10
+    Target: All Pokemon in burst
+    Attack: Wisdom vs. AC
+    Hit: 2d6 + Wisdom modifier NORMAL damage
+    Miss: Half damage
+
+LIGHT SCREEN
+    Level 2    Psychic
+    Standard Action    Self, Melee
+    Target: Up to 3 Pokemon, which may include
+      yourself, within melee range
+    Effect: Until the end of the encounter, target
+      gains a bonus to Fortitude and Will defense
+      equal to 5 + your Wisdom modifier
+
+REFLECT
+    Level 2    Psychic
+    Standard Action    Self, Melee
+    Target: Up to 3 Pokemon, which may include
+      yourself, within melee range
+    Effect: Until the end of the encounter, target
+      gains a bonus to AC and Reflex defense
+      equal to 5 + your Wisdom modifier
+
+DAZZLING GLEAM
+    Level 2    Fairy
+    Standard Action    Burst 1 within 10
+    Target: All enemies in burst
+    Attack: Wisdom vs. Fortitude
+    Hit: 2d8 + Wisdom modifier FAIRY damage
+
+CHARM
+    Level 2    Fairy
+    Standard Action    Ranged 5
+    Target: One Pokemon
+    Attack: Charisma vs. Will
+    Effect: The target is weakened until the end
+      of the encounter
+
+STORED POWER
+    Level 2    Psychic
+    Standard Action    Ranged 10
+    Target: One Pokemon
+    Attack: Wisdom vs. Reflex
+    Hit: 2d6 + Wisdom modifier PSYCHIC damage
+    Extra: For each currently ongoing positive
+      condition, deal an extra 1d6 PSYCHIC damage
+
+SYNCHRONOISE
+    Level 2    Psychic
+    Standard Action    Close burst 4
+    Target: All Pokemon in burst that share a type
+      with you
+    Attack: Intelligence vs. Fortitude
+    Hit: 1d10 + Intelligence modifier PSYCHIC
+      damage
+

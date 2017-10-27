@@ -1,0 +1,50 @@
+DOUBLE KICK
+    Level 1    Fighting
+    Standard Action    Melee
+    Target: One or Two Pokemon
+    Attack: Strength vs. AC, two attacks
+    Hit: 1d12 + Strength modifier Fighting damage
+      per attack
+
+STOMP
+    Level 1    Normal
+    Standard Action    Melee
+    Target: One Pokemon
+    Attack: Strength vs. AC
+    Hit: 2d8 + Strength modifier Normal damage
+    Extra: If the target is a smaller size than
+      you, deal an extra 1d8 Normal damage
+
+COUNTER
+    Level 1    Fighting
+    Immediate Reaction    Melee
+    Trigger: You are hit by a melee attack
+    Target: One Pokemon
+    Attack: Strength vs. AC
+    Hit: The same damage dealt to you + 1d8
+      Fighting damage
+
+ROCK TOMB
+    Level 1    Rock
+    Standard Action    Burst 1 within 10
+    Target: All Pokemon in burst
+    Attack: Strength vs. Reflex
+    Hit: 1d8 + Strength modifier ROCK damage, and
+      the target is immobilized (save ends: DC 10
+      + your Strength modifier
+
+LOW SWEEP
+    Level 1    Fighting
+    Standard Action    Melee
+    Target: One Pokemon
+    Attack: Dexterity vs. Reflex
+    Hit: 2d8 + Dexterity modifier Fighting damage
+      and the target is slowed (save ends
+
+MAGNITUDE
+    Level 1    Ground
+    Standard Action    Close Burst 3
+    Target: All Pokemon in burst
+    Attack: Constitution vs. Fortitude
+    Hit: 1d6 + Constitution modifier Ground damage
+
